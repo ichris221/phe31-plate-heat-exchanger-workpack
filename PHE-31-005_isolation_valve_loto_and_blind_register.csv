@@ -1,0 +1,11 @@
+record_id,asset_tag,system,isolation_type,point_tag,line_or_nozzle,field_name,source_value,unit,loto_reference,blind_reference,notes
+ISO-001,PHE-31,hot side,valve,GV-31-101,hot inlet,isolation_point_status,closed locked,text,LOTO-31-0512-A,,upstream hot inlet
+ISO-002,PHE-31,hot side,valve,GV-31-102,hot outlet,isolation_point_status,closed locked,text,LOTO-31-0512-A,,downstream hot outlet
+ISO-003,PHE-31,cold side,valve,GV-31-201,cold inlet,isolation_point_status,closed locked,text,LOTO-31-0512-B,,upstream cold inlet
+ISO-004,PHE-31,cold side,valve,GV-31-202,cold outlet,isolation_point_status,closed locked,text,LOTO-31-0512-B,,downstream cold outlet
+ISO-005,PHE-31,hot side,drain,DR-31-101,hot side drain,drain_point_status,open to tundish,text,LOTO-31-0512-A,,drain confirmation
+ISO-006,PHE-31,cold side,vent,VT-31-202,cold side vent,vent_point_status,cracked open,text,LOTO-31-0512-B,,vent confirmation
+ISO-007,PHE-31,hot side,blind,BL-31-HI,hot inlet spool,blind_size,DN100,text,LOTO-31-0512-A,BLIND-31-100-HI,spade blind inserted
+ISO-008,PHE-31,cold side,blind,BL-31-CI,cold inlet spool,blind_size,DN80,text,LOTO-31-0512-B,BLIND-31-080-CI,spade blind inserted
+ISO-009,PHE-31,hot side,blind,BL-31-HO,hot outlet spool,blind_size,DN100,text,,BLIND-31-100-HO,LOTO ref missing on register
+ISO-010,PHE-31,cold side,blind,BL-31-CO,cold outlet spool,blind_size,DN80,text,LOTO-31-0512-B,,blind number not written

@@ -1,0 +1,103 @@
+record_id,work_order,asset_tag,work_date,component,task,field_name,source_value,unit,technician_note
+WO-88014,WO-88014,PHE-31,2026-05-10,plate pack,open inspection,plate_count_found,160,plates,counted after end cover removal
+WO-88015,WO-88014,PHE-31,2026-05-10,gasket set,identify removed gasket,gasket_material_found,NBR,text,old asset register still says EPDM
+WO-88016,WO-88015,PHE-31,2026-05-11,plate pack,rebuild,gasket_kit_part_number,GK-PHE31-NBR-160,text,kit label photograph entered in work order
+WO-88017,WO-88015,PHE-31,2026-05-11,plate pack,rebuild,tightening_dimension_A,426.0,mm,measured after first compression pass
+WO-88018,WO-88015,PHE-31,2026-05-11,tie bolts,rebuild torque,tie_bolt_torque,188.0,Nm,torque wrench TW-31-02
+WO-88019,WO-88015,PHE-31,2026-05-11,nozzle flange,rebuild torque,nozzle_flange_bolt_torque,84.0,Nm,hot inlet flange
+WO-88020,WO-88016,PHE-31,2026-05-12,hydrotest,test setup,hydrotest_pressure,9.5,bar,target test pressure
+WO-88021,WO-88016,PHE-31,2026-05-12,hydrotest,test setup,hydrotest_duration,30.0,min,hold period from test sheet
+WO-88022,WO-88016,PHE-31,2026-05-12,hydrotest,test result,pressure_drop,0.32,bar,"drop after 30 min, retest requested by supervisor"
+WO-88023,WO-88016,PHE-31,2026-05-12,hydrotest,gauge entry,pressure_gauge_id,PG-31-HT-02,text,calibration certificate checked
+WO-88024,WO-88017,PHE-31,2026-05-13,hold point,visual inspection,leak_check_observation,weep at lower right corner,text,not quantified
+WO-88025,WO-88017,PHE-31,2026-05-13,documentation,closeout,permit_reference,,text,permit reference missing in CMMS closeout
+TR-001,TREND-31,PHE-31,2026-03-02,plate pack,weekly check,tightening_dimension_A,430.96,mm,weekly trend before outage
+TR-002,TREND-31,PHE-31,2026-03-03,plate pack,weekly check,tightening_dimension_A,430.92,mm,weekly trend before outage
+TR-003,TREND-31,PHE-31,2026-03-04,plate pack,weekly check,tightening_dimension_A,430.88,mm,weekly trend before outage
+TR-004,TREND-31,PHE-31,2026-03-05,plate pack,weekly check,tightening_dimension_A,430.84,mm,weekly trend before outage
+TR-005,TREND-31,PHE-31,2026-03-06,plate pack,weekly check,tightening_dimension_A,430.8,mm,weekly trend before outage
+TR-006,TREND-31,PHE-31,2026-03-07,plate pack,weekly check,tightening_dimension_A,430.76,mm,weekly trend before outage
+TR-007,TREND-31,PHE-31,2026-03-08,plate pack,weekly check,tightening_dimension_A,430.72,mm,weekly trend before outage
+TR-008,TREND-31,PHE-31,2026-03-09,plate pack,weekly check,tightening_dimension_A,430.68,mm,weekly trend before outage
+TR-009,TREND-31,PHE-31,2026-03-10,plate pack,weekly check,tightening_dimension_A,430.64,mm,weekly trend before outage
+TR-010,TREND-31,PHE-31,2026-03-11,plate pack,weekly check,tightening_dimension_A,430.6,mm,weekly trend before outage
+TR-011,TREND-31,PHE-31,2026-03-12,plate pack,weekly check,tightening_dimension_A,430.56,mm,weekly trend before outage
+TR-012,TREND-31,PHE-31,2026-03-13,plate pack,weekly check,tightening_dimension_A,430.52,mm,weekly trend before outage
+TR-013,TREND-31,PHE-31,2026-03-14,plate pack,weekly check,tightening_dimension_A,430.48,mm,weekly trend before outage
+TR-014,TREND-31,PHE-31,2026-03-15,plate pack,weekly check,tightening_dimension_A,430.44,mm,weekly trend before outage
+TR-015,TREND-31,PHE-31,2026-03-16,plate pack,weekly check,tightening_dimension_A,430.4,mm,weekly trend before outage
+TR-016,TREND-31,PHE-31,2026-03-17,plate pack,weekly check,tightening_dimension_A,430.36,mm,weekly trend before outage
+TR-017,TREND-31,PHE-31,2026-03-18,plate pack,weekly check,tightening_dimension_A,430.32,mm,weekly trend before outage
+TR-018,TREND-31,PHE-31,2026-03-19,plate pack,weekly check,tightening_dimension_A,430.28,mm,weekly trend before outage
+TR-019,TREND-31,PHE-31,2026-03-20,plate pack,weekly check,tightening_dimension_A,430.24,mm,weekly trend before outage
+TR-020,TREND-31,PHE-31,2026-03-21,plate pack,weekly check,tightening_dimension_A,430.2,mm,weekly trend before outage
+TR-021,TREND-31,PHE-31,2026-03-22,plate pack,weekly check,tightening_dimension_A,430.16,mm,weekly trend before outage
+TR-022,TREND-31,PHE-31,2026-03-23,plate pack,weekly check,tightening_dimension_A,430.12,mm,weekly trend before outage
+TR-023,TREND-31,PHE-31,2026-03-24,plate pack,weekly check,tightening_dimension_A,430.08,mm,weekly trend before outage
+TR-024,TREND-31,PHE-31,2026-03-25,plate pack,weekly check,tightening_dimension_A,430.04,mm,weekly trend before outage
+TR-025,TREND-31,PHE-31,2026-03-26,plate pack,weekly check,tightening_dimension_A,430.0,mm,weekly trend before outage
+TR-026,TREND-31,PHE-31,2026-03-27,plate pack,weekly check,tightening_dimension_A,429.96,mm,weekly trend before outage
+TR-027,TREND-31,PHE-31,2026-03-28,plate pack,weekly check,tightening_dimension_A,429.92,mm,weekly trend before outage
+TR-028,TREND-31,PHE-31,2026-03-29,plate pack,weekly check,tightening_dimension_A,429.88,mm,weekly trend before outage
+TR-029,TREND-31,PHE-31,2026-03-30,plate pack,weekly check,tightening_dimension_A,429.84,mm,weekly trend before outage
+TR-030,TREND-31,PHE-31,2026-03-31,plate pack,weekly check,tightening_dimension_A,429.8,mm,weekly trend before outage
+TR-031,TREND-31,PHE-31,2026-04-01,plate pack,weekly check,tightening_dimension_A,429.76,mm,weekly trend before outage
+TR-032,TREND-31,PHE-31,2026-04-02,plate pack,weekly check,tightening_dimension_A,429.72,mm,weekly trend before outage
+TR-033,TREND-31,PHE-31,2026-04-03,plate pack,weekly check,tightening_dimension_A,429.68,mm,weekly trend before outage
+TR-034,TREND-31,PHE-31,2026-04-04,plate pack,weekly check,tightening_dimension_A,429.64,mm,weekly trend before outage
+TR-035,TREND-31,PHE-31,2026-04-05,plate pack,weekly check,tightening_dimension_A,429.6,mm,weekly trend before outage
+TR-036,TREND-31,PHE-31,2026-04-06,plate pack,weekly check,tightening_dimension_A,429.56,mm,weekly trend before outage
+TR-037,TREND-31,PHE-31,2026-04-07,plate pack,weekly check,tightening_dimension_A,429.52,mm,weekly trend before outage
+TR-038,TREND-31,PHE-31,2026-04-08,plate pack,weekly check,tightening_dimension_A,429.48,mm,weekly trend before outage
+TR-039,TREND-31,PHE-31,2026-04-09,plate pack,weekly check,tightening_dimension_A,429.44,mm,weekly trend before outage
+TR-040,TREND-31,PHE-31,2026-04-10,plate pack,weekly check,tightening_dimension_A,429.4,mm,weekly trend before outage
+TR-041,TREND-31,PHE-31,2026-04-11,plate pack,weekly check,tightening_dimension_A,429.36,mm,weekly trend before outage
+TR-042,TREND-31,PHE-31,2026-04-12,plate pack,weekly check,tightening_dimension_A,429.32,mm,weekly trend before outage
+TR-043,TREND-31,PHE-31,2026-04-13,plate pack,weekly check,tightening_dimension_A,429.28,mm,weekly trend before outage
+TR-044,TREND-31,PHE-31,2026-04-14,plate pack,weekly check,tightening_dimension_A,429.24,mm,weekly trend before outage
+TR-045,TREND-31,PHE-31,2026-04-15,plate pack,weekly check,tightening_dimension_A,429.2,mm,weekly trend before outage
+TR-046,TREND-31,PHE-31,2026-04-16,plate pack,weekly check,tightening_dimension_A,429.16,mm,weekly trend before outage
+TR-047,TREND-31,PHE-31,2026-04-17,plate pack,weekly check,tightening_dimension_A,429.12,mm,weekly trend before outage
+TR-048,TREND-31,PHE-31,2026-04-18,plate pack,weekly check,tightening_dimension_A,429.08,mm,weekly trend before outage
+TR-049,TREND-31,PHE-31,2026-04-19,plate pack,weekly check,tightening_dimension_A,429.04,mm,weekly trend before outage
+TR-050,TREND-31,PHE-31,2026-04-20,plate pack,weekly check,tightening_dimension_A,429.0,mm,weekly trend before outage
+TR-051,TREND-31,PHE-31,2026-04-21,plate pack,weekly check,tightening_dimension_A,428.96,mm,weekly trend before outage
+TR-052,TREND-31,PHE-31,2026-04-22,plate pack,weekly check,tightening_dimension_A,428.92,mm,weekly trend before outage
+TR-053,TREND-31,PHE-31,2026-04-23,plate pack,weekly check,tightening_dimension_A,428.88,mm,weekly trend before outage
+TR-054,TREND-31,PHE-31,2026-04-24,plate pack,weekly check,tightening_dimension_A,428.84,mm,weekly trend before outage
+TR-055,TREND-31,PHE-31,2026-04-25,plate pack,weekly check,tightening_dimension_A,428.8,mm,weekly trend before outage
+TR-056,TREND-31,PHE-31,2026-04-26,plate pack,weekly check,tightening_dimension_A,428.76,mm,weekly trend before outage
+TR-057,TREND-31,PHE-31,2026-04-27,plate pack,weekly check,tightening_dimension_A,428.72,mm,weekly trend before outage
+TR-058,TREND-31,PHE-31,2026-04-28,plate pack,weekly check,tightening_dimension_A,428.68,mm,weekly trend before outage
+TR-059,TREND-31,PHE-31,2026-04-29,plate pack,weekly check,tightening_dimension_A,428.64,mm,weekly trend before outage
+TR-060,TREND-31,PHE-31,2026-04-30,plate pack,weekly check,tightening_dimension_A,428.6,mm,weekly trend before outage
+PF-001,FIND-31,PHE-31,2026-02-03,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-002,FIND-31,PHE-31,2026-02-05,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-003,FIND-31,PHE-31,2026-02-07,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-004,FIND-31,PHE-31,2026-02-09,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-005,FIND-31,PHE-31,2026-02-11,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-006,FIND-31,PHE-31,2026-02-13,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-007,FIND-31,PHE-31,2026-02-15,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-008,FIND-31,PHE-31,2026-02-17,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-009,FIND-31,PHE-31,2026-02-19,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-010,FIND-31,PHE-31,2026-02-21,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-011,FIND-31,PHE-31,2026-02-23,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-012,FIND-31,PHE-31,2026-02-25,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-013,FIND-31,PHE-31,2026-02-27,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-014,FIND-31,PHE-31,2026-03-01,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-015,FIND-31,PHE-31,2026-03-03,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-016,FIND-31,PHE-31,2026-03-05,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-017,FIND-31,PHE-31,2026-03-07,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-018,FIND-31,PHE-31,2026-03-09,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-019,FIND-31,PHE-31,2026-03-11,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-020,FIND-31,PHE-31,2026-03-13,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-021,FIND-31,PHE-31,2026-03-15,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-022,FIND-31,PHE-31,2026-03-17,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-023,FIND-31,PHE-31,2026-03-19,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-024,FIND-31,PHE-31,2026-03-21,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-025,FIND-31,PHE-31,2026-03-23,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-026,FIND-31,PHE-31,2026-03-25,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-027,FIND-31,PHE-31,2026-03-27,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-028,FIND-31,PHE-31,2026-03-29,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-029,FIND-31,PHE-31,2026-03-31,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only
+PF-030,FIND-31,PHE-31,2026-04-02,gasket line,previous finding,external_staining_observation,light brown stain at drain side,text,descriptive finding only

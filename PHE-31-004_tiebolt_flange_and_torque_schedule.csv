@@ -1,0 +1,11 @@
+record_id,asset_tag,schedule_date,component,fastener_group,field_name,source_value,unit,torque_stage,notes
+TQ-001,PHE-31,2026-05-10,tie bolts,M24 tie bolts,tie_bolt_quantity,12,each,pre-check,schedule count after frame survey
+TQ-002,PHE-31,2026-05-10,tie bolts,M24 tie bolts,tie_bolt_torque,188.0,Nm,final pass,current schedule
+TQ-003,PHE-31,2026-05-10,tie bolts,M24 tie bolts,tie_bolt_torque_stage_1,95.0,Nm,stage 1,current schedule
+TQ-004,PHE-31,2026-05-10,tie bolts,M24 tie bolts,tie_bolt_torque_stage_2,150.0,Nm,stage 2,current schedule
+TQ-005,PHE-31,2026-05-10,nozzle flange,M16 hot inlet flange,nozzle_flange_bolt_torque,84.0,Nm,final pass,hot inlet
+TQ-006,PHE-31,2026-05-10,nozzle flange,M16 hot outlet flange,nozzle_flange_bolt_torque,84.0,Nm,final pass,hot outlet
+TQ-007,PHE-31,2026-05-10,nozzle flange,M16 cold inlet flange,nozzle_flange_bolt_torque,82.0,Nm,final pass,cold inlet
+TQ-008,PHE-31,2026-05-10,nozzle flange,M16 cold outlet flange,nozzle_flange_bolt_torque,82.0,Nm,final pass,cold outlet
+TQ-009,PHE-31,2026-05-10,cover bolts,M12 cover guard bolts,cover_guard_bolt_torque,32.0,Nm,final pass,guard panel fasteners
+TQ-010,PHE-31,2026-05-10,tie bolts,M24 tie bolts,tie_bolt_lubricant,moly paste,text,pre-check,text record

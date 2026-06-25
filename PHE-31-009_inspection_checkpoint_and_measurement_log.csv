@@ -1,0 +1,87 @@
+record_id,asset_tag,inspection_date,checkpoint,component,field_name,source_value,unit,inspector,note
+CP-001,PHE-31,2026-05-11,plate count verification,plate pack,plate_count,160,plates,EA,after rebuild
+CP-002,PHE-31,2026-05-11,compression pass 1,plate pack,tightening_dimension_A,429.0,mm,EA,after first pass
+CP-003,PHE-31,2026-05-11,compression final,plate pack,tightening_dimension_A,426.5,mm,EA,final pass
+CP-004,PHE-31,2026-05-12,tie bolt audit,tie bolts,tie_bolt_torque,188.0,Nm,ML,random check
+CP-005,PHE-31,2026-05-12,flange audit,nozzle flange,nozzle_flange_bolt_torque,84.0,Nm,ML,hot inlet flange
+CP-006,PHE-31,2026-05-12,hydrotest start,hydrotest,hydrotest_pressure,9.5,bar,EA,start pressure
+CP-007,PHE-31,2026-05-12,hydrotest hold,hydrotest,hydrotest_duration,30.0,min,EA,hold period
+CP-008,PHE-31,2026-05-12,hydrotest hold,hydrotest,pressure_drop,0.32,bar,EA,first hold
+CP-009,PHE-31,2026-05-12,hydrotest retest,hydrotest,pressure_drop,0.12,bar,EA,second hold after compression pass
+CP-010,PHE-31,2026-05-12,gauge record,hydrotest,pressure_gauge_id,PG-31-HT-02,text,EA,gauge tag visible
+CP-011,PHE-31,2026-05-12,gauge record,hydrotest,pressure_gauge_range,0-16,bar,EA,gauge face range
+CP-012,PHE-31,2026-05-12,gauge record,hydrotest,gauge_calibration_date,2026-05-18,date,EA,certificate in tool file
+CP-013,PHE-31,2026-05-12,leak check,plate pack,leak_check_observation,fine weep at lower right corner,text,EA,descriptive observation
+CP-014,PHE-31,2026-05-13,leak check,plate pack,leak_check_observation,dry after retest,text,EA,descriptive observation
+CP-015,PHE-31,2026-05-13,closeout,documentation,closeout_reference,,text,EA,closeout number not assigned
+CP-016-DUP,PHE-31,2026-05-13,closeout,documentation,closeout_reference,,text,EA,repeat export of CP-015
+MEAS-001,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-002,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-003,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-004,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-005,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-006,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-007,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-008,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-009,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-010,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-011,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-012,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-013,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-014,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-015,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-016,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-017,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-018,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-019,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-020,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-021,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-022,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-023,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-024,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-025,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-026,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-027,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-028,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-029,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-030,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-031,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-032,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-033,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-034,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-035,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-036,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-037,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-038,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-039,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-040,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-041,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-042,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-043,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+MEAS-044,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.48,bar,logger,minute log
+MEAS-045,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.47,bar,logger,minute log
+MEAS-046,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.46,bar,logger,minute log
+MEAS-047,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.45,bar,logger,minute log
+MEAS-048,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.44,bar,logger,minute log
+MEAS-049,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.5,bar,logger,minute log
+MEAS-050,PHE-31,2026-05-12,hydrotest trend,hydrotest,test_pressure_logged,9.49,bar,logger,minute log
+DIM-001,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,428.4,mm,EA,pass sequence log
+DIM-002,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,428.3,mm,EA,pass sequence log
+DIM-003,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,428.2,mm,EA,pass sequence log
+DIM-004,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,428.1,mm,EA,pass sequence log
+DIM-005,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,428.0,mm,EA,pass sequence log
+DIM-006,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.9,mm,EA,pass sequence log
+DIM-007,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.8,mm,EA,pass sequence log
+DIM-008,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.7,mm,EA,pass sequence log
+DIM-009,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.6,mm,EA,pass sequence log
+DIM-010,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.5,mm,EA,pass sequence log
+DIM-011,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.4,mm,EA,pass sequence log
+DIM-012,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.3,mm,EA,pass sequence log
+DIM-013,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.2,mm,EA,pass sequence log
+DIM-014,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.1,mm,EA,pass sequence log
+DIM-015,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,427.0,mm,EA,pass sequence log
+DIM-016,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,426.9,mm,EA,pass sequence log
+DIM-017,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,426.8,mm,EA,pass sequence log
+DIM-018,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,426.7,mm,EA,pass sequence log
+DIM-019,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,426.6,mm,EA,pass sequence log
+DIM-020,PHE-31,2026-05-11,tightening pass trend,plate pack,tightening_dimension_A,426.5,mm,EA,pass sequence log
